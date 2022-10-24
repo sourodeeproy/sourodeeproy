@@ -6,6 +6,9 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Sourodeep Roy, a data science and deep learning enthusiast :computer:<br>
   <br> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ <!---
+ <br> <img src="https://giphy.com/clips/AnimationOnFOX-the-simpsons-fox-foxtv-KpJ47gKe6b7v7xQyWj" alt="Coder GIF" width="500"> 
+  ---!>
  </abc>
 </h2> 
 I am an engineering student at Jadavpur University, Kolkata, India. My work is focused on developing products in fields such as data science, data engineering, deep learning, semantic web and knowledge graph.
